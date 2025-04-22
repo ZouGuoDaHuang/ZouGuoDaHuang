@@ -11,4 +11,4 @@
  ### 📊 GitHub 统计
  | <img align="center" alt="Andy Zhang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZouGuoDaHuang&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouGuoDaHuang&hide_border=true&layout=compact&exclude_repo=ZouGuoDaHuang.github.io" /> |
  | - | - |
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZouGuoDaHuang&layout=compact&hide=xml,markdown)
