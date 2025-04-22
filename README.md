@@ -13,6 +13,6 @@
 ### 📊 GitHub 统计
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZouGuoDaHuang&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" width="48%" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouGuoDaHuang&hide_border=true&layout=compact&theme=default&exclude_repo=ZouGuoDaHuang.github.io&hide=xml,markdown" width="48%" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouGuoDaHuang&hide_border=true&layout=compact&theme=default&exclude_repo=ZouGuoDaHuang.github.io" width="41%" />
 
 </div>
